@@ -1,7 +1,7 @@
-##Logiciel de gestion de personnel de ligues
+# Logiciel de gestion de personnel de ligues
 
 
-##Présentation
+## Présentation
 
 Un des responsables de la M2L, utilise une application pour gérer les employés des ligues. L’application est mise à votre disposition par le biais des ressources suivantes :
 
@@ -10,7 +10,7 @@ Un des responsables de la M2L, utilise une application pour gérer les employés
 
 2) Une bibliothèque logiciel de dialogue en ligne de commande, disponible [ici](https://github.com/alexandreMesle/CommandLine)
 
-#Spécification du besoin
+# Spécification du besoin
 
 Les niveaux d’habilitation des utilisateurs sont les suivants :
 
